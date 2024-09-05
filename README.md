@@ -30,10 +30,10 @@ Random Forest: An ensemble learning method that operates by constructing multipl
 Support Vector Machine (SVM): A supervised learning model that analyzes data for classification and regression analysis.
 K-Means Clustering: An unsupervised learning algorithm used for clustering data into k distinct clusters.
 
-Algorithm	    Accuracy	Precision	Recall	F1-Score
-Random Forest	0.90	    0.84	    0.83	    0.83
-SVM          	0.86      0.81	    0.80	    0.80
-K-Means      	0.78	    0.77	    0.76	    0.76
+Algorithm	   | Accuracy|	Precision|	Recall|	F1-Score
+Random Forest|	0.90	|   0.84	 |   0.83	  |  0.83
+SVM         | 	0.86    |  0.81	   | 0.80	   | 0.80
+K-Means     | 	0.78	  |  0.77	   | 0.76	   | 0.76
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
